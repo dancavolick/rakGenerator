@@ -1,6 +1,4 @@
-//The aim of the code is to produce ideas for Random Acts of Kindness (RAK) for a selection of recipients.  On a random basis, the recipients will first be picked, then an act from the appropriate array (as some
-//acts can only be performed for specific parties).  Finally, the date that the act should be performed on will be selected (this will always be 2 days from todays date i.e. if today is Sunday,
-//the act should be performed on Tuesday)
+//The aim of the code is to produce ideas for Random Acts of Kindness (RAK) for a selection of recipients.  On a random basis, the recipients will first be picked, then an act from the appropriate array (as some acts can only be performed for specific parties).  Finally, the date that the act should be performed on will be selected (this will always be 2 days from todays date i.e. if today is Sunday, the act should be performed on Tuesday)
 
 //Code consists of:
 // * 1 object containing 4 arrays and 1 date function
